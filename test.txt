@@ -38,3 +38,34 @@ Work individually, use your memory and fill in the gaps using the correct prepos
  a bull in a china shop? Who is it?
 10 Do you believe that the change of weather during a day can lead
  mood swings?
+1. Anna said, “I’m waiting for my husband to pick me up.”
+Anna said
+  was waiting for
+  husband to pick
+  up.
+
+2. Igor said to me, “I need your help with this exercise.”
+Igor told me
+  needed
+  help with that exercise.
+
+3. Olia said to Ira, “I think your cat is so funny.”
+Olia told Ira
+  thought
+  cat was so funny.
+
+4. Andrii said, “My wife wants me to be happy.”
+Andrii said
+  wife wanted
+  to be happy.
+
+5. Our neighbors said, “We’ve decided to take our dog for a walk.”
+Our neighbors said
+  had decided to take
+  dog for a walk.
+
+6. The teacher said to us, “You should work on your mistakes.”
+The teacher told
+  that
+  should work on
+  mistakes.
